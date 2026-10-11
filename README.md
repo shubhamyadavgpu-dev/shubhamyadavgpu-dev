@@ -74,7 +74,7 @@ A side-project idea exploring voice commands, desktop automation, and assistant 
 ## 🤝 Connect With Me
 
 - 💻 GitHub:(https://github.com/shubhamyadavgpu-dev/shubhamyadavgpu-dev/))
-- 💼 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
+- 💼 LinkedIn:(https://www.linkedin.com/](https://www.linkedin.com/in/shubham-yadav-undefined-a69571426/)
 
 ---
 
