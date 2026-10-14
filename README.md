@@ -41,7 +41,10 @@ I enjoy building web projects, learning how backend systems work, and solving pr
 > 🌱 **Currently improving:** JavaScript fundamentals, backend development, database integration, and DSA problem-solving.
 
 ---
+## Contribution Snake 
+![snake gif](https://github.com/shubhamyadavgpu-dev/shubhamyadavgpu-dev/blob/output/github-snake-dark.svg)
 
+---
 ## 🚀 Projects
 
 ### 1. Smart College Complaint Management System (SCCMS)
