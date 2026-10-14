@@ -1,84 +1,25 @@
-# Hey, I'm a B.Tech CSE Student 👋
 
-### Aspiring Full-Stack Developer | Java & DSA Learner
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shubham_yadav_0331/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Shubhamyadavgpu-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamyadavgpu@gmail.com) 
 
-I enjoy building web projects, learning how backend systems work, and solving problems one step at a time.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shubhamyadavgpu-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shubhamyadavgpu-dev&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamyadavgpu-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🙋‍♂️ About Me
-
-- 🎓 Third-year **B.Tech Computer Science Engineering** student.
-- 💻 Learning full-stack development, with a current focus on **Node.js and Express.js**.
-- ☕ Practicing **Java and Data Structures & Algorithms (DSA)** for problem-solving and placement preparation.
-- 🛠️ Interested in building practical projects that solve real problems.
-- 🚀 Always learning, building, and improving.
-
-## 🧰 Skills & Technologies
-
-### 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-
-### 💻 Programming & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-> 🌱 **Currently improving:** JavaScript fundamentals, backend development, database integration, and DSA problem-solving.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shubhamyadavgpu-dev&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=shubhamyadavgpu-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 ## Contribution Snake 
 ![snake gif](https://github.com/shubhamyadavgpu-dev/shubhamyadavgpu-dev/blob/output/github-snake-dark.svg)
-
----
-## 🚀 Projects
-
-### 1. Smart College Complaint Management System (SCCMS)
-A college complaint-management project designed to help students submit and track complaints while allowing administrators to manage and resolve them.
-
-**Tech Stack:** HTML, CSS, JavaScript, PHP, SQL
-
-### 2. UPI-Shield / ScamShield
-A project focused on identifying suspicious digital-payment messages and potential social-engineering scams to help users recognize digital threats.
-
-**Focus Areas:** Scam detection, NLP, digital-payment security
-
-### 3. JARVIS Voice Assistant
-A side-project idea exploring voice commands, desktop automation, and assistant workflows.
-
-**Focus Areas:** Voice recognition, command processing, automation
-
----
-
-## 📚 Current Learning Goals
-
-- Strengthen JavaScript and backend fundamentals.
-- Build and understand REST APIs using Node.js and Express.js.
-- Practice Java DSA consistently.
-- Develop practical projects with clean code and proper documentation.
-- Prepare for software-development internships and placement opportunities.
-
----
-
-## 🤝 Connect With Me
-
-- 💻 GitHub:(https://github.com/shubhamyadavgpu-dev/shubhamyadavgpu-dev/))
-- 💼 LinkedIn:(https://www.linkedin.com/](https://www.linkedin.com/in/shubham-yadav-undefined-a69571426/)
-
----
-
-💡 Learning by Building. Improving One Commit at a Time. 🚀
