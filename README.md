@@ -16,9 +16,6 @@ I enjoy building web projects, learning how backend systems work, and solving pr
 
 ---
 # 💻 Tech Stack:
-💻 Tech Stack
-
-💻 Tech Stack
 
 🎨 Frontend Development
 
