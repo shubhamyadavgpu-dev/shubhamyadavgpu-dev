@@ -56,10 +56,6 @@ I enjoy building web projects, learning how backend systems work, and solving pr
 </p>📊 Data Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>🌐 Other
-
-<p>
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" />
 </p>
 
